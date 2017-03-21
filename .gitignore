@@ -80,6 +80,8 @@ GitHub.sublime-settings
 /Assets/AssetStoreTools*
 AssetStoreTools/
 AssetStoreTools.meta
+AssetStoreTools*
+
 # Visual Studio 2015 cache directory
 /.vs/
 AssetStoreTools
