@@ -78,7 +78,8 @@ GitHub.sublime-settings
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-
+AssetStoreTools/
+AssetStoreTools.meta
 # Visual Studio 2015 cache directory
 /.vs/
 
